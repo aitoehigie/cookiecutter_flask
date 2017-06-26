@@ -1,7 +1,5 @@
 {
 "author":"pystar",
 "version":"0.0.1",
-"repo_name":"cookiecutter_flask",
-"static":"static",
-"app":"app"
+"repo_name":"cookiecutter_flask"
 }
