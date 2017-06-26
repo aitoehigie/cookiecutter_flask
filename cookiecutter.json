@@ -1,5 +1,6 @@
 {
 "author":"pystar",
 "version":"0.0.1",
-"app":"app"
+"app":"app",
+"repo_name":"repo_name"
 }
