@@ -1,0 +1,4 @@
+#!/home/pystar/Documents/projects/cookiecutter_flask/venv/bin/python
+from leak import cli
+
+cli.cli()
